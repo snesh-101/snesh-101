@@ -3,7 +3,7 @@ I'm Sneha!
 
 I break things, I fix them, and along the way, I learn💡.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9hcXZvZnFjaWNzY3Y3cm1kOTU2MXg5YTJ5cGU1bTAwdmo3bG05ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="500">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9hcXZvZnFjaWNzY3Y3cm1kOTU2MXg5YTJ5cGU1bTAwdmo3bG05ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300">
 
 
 #### 👨‍💻 Programming Languages:
